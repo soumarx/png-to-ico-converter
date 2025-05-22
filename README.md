@@ -1,6 +1,6 @@
 # PNG to ICO Converter
 
-This project provides a simple command-line interface for converting multiple PNG files to ICO format while maintaining the original file names. Users can select PNG files through a file explorer and choose the output directory for the converted ICO files.
+This project provides a simple command-line interface for converting multiple PNG files to ICO format while maintaining the original file names. Users can select PNG files through a file explorer and choose the output directory for the converted ICO files..
 
 ## Features
 
